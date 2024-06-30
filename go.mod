@@ -1,4 +1,4 @@
-module github.com/gocolly/colly/v2
+module github.com/miaomiao-ocean/colly/v2
 
 go 1.20
 
